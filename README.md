@@ -4,7 +4,7 @@ Junior software developer from Split, Croatia — Master's graduate in Computing
 I build backends and the web apps on top of them, and I'm currently focusing on AI engineering
 and modern Python.
 
-**Portfolio:** https://josip-arambasic.vercel.app · **LinkedIn:** [josip-arambašić](https://www.linkedin.com/in/josip-aramba%C5%A1i%C4%87-235552248/) · **Email:** saramba10@gmail.com
+**Portfolio:** https://josip-arambasic.from.hr · **LinkedIn:** [josip-arambašić](https://www.linkedin.com/in/josip-aramba%C5%A1i%C4%87-235552248/) · **Email:** saramba10@gmail.com
 
 #### Selected projects
 
