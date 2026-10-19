@@ -17,5 +17,6 @@ and modern Python.
 
 #### Tools I use
 
-PHP · Python · Java · TypeScript · SQL — Symfony · Spring Boot · FastAPI · React —
-PostgreSQL · MySQL · SQLite — Docker · Git · GitHub Actions
+- **Languages:** PHP, Python, Java, TypeScript, SQL
+- **Frameworks:** Symfony, Spring Boot, FastAPI, React
+- **Data & tools:** PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions
