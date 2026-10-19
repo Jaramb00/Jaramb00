@@ -1,6 +1,6 @@
 ### Hi, I'm Josip 👋
 
-Junior software developer from Split, Croatia — Master's graduate in Computing (FESB, 2026).
+Junior software developer from Split, Croatia, with a Master's degree in Computing (FESB, 2026).
 I build backends and the web apps on top of them, and I'm currently focusing on AI engineering
 and modern Python.
 
